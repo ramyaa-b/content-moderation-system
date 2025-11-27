@@ -1,0 +1,9 @@
+{
+  "religious_hate": 0,
+  "caste_discrimination": 1,
+  "gender_hate": 2,
+  "regional_hate": 3,
+  "toxic_profane": 4,
+  "threatening": 5,
+  "normal": 6
+}
