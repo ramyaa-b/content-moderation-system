@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+requests
+tqdm
+transformers
+torch
+sentencepiece
+nltk
+rapidfuzz
+sentence-transformers
+python-dateutil
+regex
+typing_extensions
+kaggle    # optional - only required if you want the script to auto-download Jigsaw via Kaggle API
+langdetect
