@@ -11,7 +11,7 @@ import streamlit as st
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch
 import numpy as np
-import cv2  # for video reading/display (opencv-python)
+# for video reading/display (opencv-python)
 
 # ---------- Helpers & small wrappers ----------
 st.set_page_config(layout="wide", page_title="Video Model Demo")
@@ -179,5 +179,6 @@ st.markdown(
     "- Use smaller `max_frames` when debugging to save time.\n"
     "- If your notebook uses TensorFlow, PyTorch, or NumPy, ensure those packages are in `requirements.txt`.\n"
 )
+
 
 
