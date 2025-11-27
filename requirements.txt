@@ -14,3 +14,19 @@ regex
 typing_extensions
 kaggle    # optional - only required if you want the script to auto-download Jigsaw via Kaggle API
 langdetect
+streamlit>=1.32.0
+transformers>=4.37.0
+torch>=2.1.0
+numpy
+pandas
+regex
+tqdm
+youtube-transcript-api
+sentencepiece
+protobuf
+streamlit>=1.18
+transformers>=4.30
+huggingface_hub
+torch
+numpy
+opencv-python
